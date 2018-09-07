@@ -1,0 +1,10 @@
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\bin\Debug\TimeToShutDown.exe.config
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\bin\Debug\TimeToShutDown.exe
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\bin\Debug\TimeToShutDown.pdb
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\obj\Debug\TimeToShutDown.csprojAssemblyReference.cache
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\obj\Debug\TimeToShutDown.Form1.resources
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\obj\Debug\TimeToShutDown.Properties.Resources.resources
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\obj\Debug\TimeToShutDown.csproj.GenerateResource.cache
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\obj\Debug\TimeToShutDown.csproj.CoreCompileInputs.cache
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\obj\Debug\TimeToShutDown.exe
+D:\Software Dev\Csharp\TimeToShutDown\TimeToShutDown\obj\Debug\TimeToShutDown.pdb
